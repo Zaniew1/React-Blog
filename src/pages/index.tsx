@@ -1,12 +1,11 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+import { FeaturedPost } from '../../Components/Post/FeaturedPost/FeaturedPost'
+import classes from './index.module.css';
 
 export default function Home() {
   return (
-    <main>
-      {'asd'}
+    <main className={classes.blog}>
+        <FeaturedPost/>
     </main>
   )
 }

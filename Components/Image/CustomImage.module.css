@@ -1,0 +1,7 @@
+.image__wrapper{
+    position: relative;
+    object-fit:"cover"
+}
+.slider__image{
+    object-fit:"cover" 
+}

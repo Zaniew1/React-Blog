@@ -1,0 +1,4 @@
+.featured{
+    margin: var(--margin-container);
+    padding: var(--padding-container);
+}

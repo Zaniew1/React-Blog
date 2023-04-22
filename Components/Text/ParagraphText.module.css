@@ -1,0 +1,4 @@
+.paragraphText{
+    color: var(--fontSize-color-text);
+    font-family: var(--fontFamily-text);
+}

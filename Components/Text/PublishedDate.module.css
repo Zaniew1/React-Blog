@@ -1,0 +1,5 @@
+.publishedDate{
+    color: var(--fontSize-color-date);
+    margin: 15px 0;
+    font-family: var(--fontFamily-text);
+}
